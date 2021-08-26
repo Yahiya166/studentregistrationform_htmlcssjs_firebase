@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+/* body{
+
+} */
+
+.backgroundDark{
+    background-color: #006d77;
+}
+
+.Darkcolor{
+    color: #006d77;
+}
+
+.backgroundLight{
+    background-color: #edf6f9;
+}
+
+.Lightcolor{
+    color: #edf6f9;
+}
+
+.but button:hover{
+    color: #edf6f9 !important;
+}
+
+/* .div{
+    width: 100%;
+    max-width: 450px;
+    margin: 0px auto;
+} */

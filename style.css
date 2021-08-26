@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+
+
+.backgroundDark{
+    background-color: #006d77;
+}
+
+.Darkcolor{
+    color: #006d77;
+}
+
+.backgroundLight{
+    background-color: #edf6f9;
+}
+
+.Lightcolor{
+    color: #edf6f9;
+}
+
+form{
+    width: 100%;
+    max-width: 450px;
+    margin: 0px auto;
+}
+
+form label{
+    color: #006d77;
+    font-weight: bold;
+    font-size: 20px;
+    display: block;
+}
+
+form input{
+    width: 100%;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #006d77;
+    padding: 5px 5px;
+    margin-top: 4px;
+    color: #006d77;
+}
+
+form select{
+    width: 100%;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #006d77;
+    padding: 10px;
+    margin-top: 4px;
+    color: #006d77;
+}
+
+form .but button:hover{
+    color: #edf6f9 !important;
+}
+
+form p {
+    font-size: 14px;
+    color: #006d77;
+}
+
+form p button{
+    text-decoration: none !important;
+    color: #006d77 !important;
+}
+
+form p button:hover{
+    text-decoration: underline !important;
+}

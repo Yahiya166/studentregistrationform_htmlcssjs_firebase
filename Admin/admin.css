@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+
+.backgroundDark{
+    background-color: #006d77;
+}
+
+.Darkcolor{
+    color: #006d77;
+}
+
+.backgroundLight{
+    background-color: #edf6f9;
+}
+
+.Lightcolor{
+    color: #edf6f9;
+}
+
+.header button{
+    height: fit-content;
+    margin: auto 0px;
+}
+
+.side{
+    height: 88vh;
+}
+
+.bold{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.one h2{
+    margin: auto 0px;
+}
+
+.table button:hover{
+    color: #edf6f9;
+}
